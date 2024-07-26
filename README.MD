@@ -8,7 +8,7 @@
 
 <p align="center">
 <img 
-    src="./assets/tux2.png"
+    src="./assets/tux2.jpeg"
     width="400"  
 />
 </p>
